@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Bai1\ConsoleApp1\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai1\ConsoleApp1\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\admin\Desktop\Bai1\ConsoleApp1\Bai2\bin\Debug\Bai2.exe
+C:\Users\admin\Desktop\Bai1\ConsoleApp1\Bai2\bin\Debug\Bai2.pdb
+C:\Users\admin\Desktop\Bai1\ConsoleApp1\Bai2\obj\Debug\Bai2.exe
+C:\Users\admin\Desktop\Bai1\ConsoleApp1\Bai2\obj\Debug\Bai2.pdb
